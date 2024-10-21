@@ -88,13 +88,13 @@
     <dependency>
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-server</artifactId>
-      <version>8.1.10.v20130312</version>
+      <version>12.0.12</version>
     </dependency>
 
     <dependency>
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-servlets</artifactId>
-      <version>8.1.10.v20130312</version>
+      <version>9.0.0.v20130308</version>
     </dependency>
 
     <dependency>
